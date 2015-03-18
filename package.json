@@ -1,0 +1,42 @@
+{
+  "name": "process-sync",
+  "version": "1.0.1",
+  "description": "Process sync (ps) is a nodejs package to process your function in a Synchronous Queue. All the process will be in a queue and it will run one by one like mutex.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shabeer-ali-m/process-sync.git"
+  },
+  "keywords": [
+    "sync",
+    "process",
+    "process",
+    "sync",
+    "mutex",
+    "process",
+    "synchronization",
+    "function",
+    "synchronization",
+    "code",
+    "sync",
+    "synchronization",
+    "sync",
+    "queue",
+    "process",
+    "queue",
+	"stack",
+	"stack process"
+  ],
+  "author": "Shabeer Ali M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shabeer-ali-m/process-sync/issues"
+  },
+  "homepage": "https://github.com/shabeer-ali-m/process-sync"
+}
